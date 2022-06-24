@@ -1,0 +1,22 @@
+[
+  {
+    "gambar": "kubus",
+    "rumus": "Rumus Luas Kubus, yaitu: L = 6 x s\nKeliling Kubus, yaitu: K = 12 x s\nVolume Kubus, yaitu:  V = s x s x s (s3)"
+  },
+  {
+    "gambar": "balok",
+    "rumus": "Luas balok, yaitu: L = 2 x [(p x l) + (p x t) + (l x t)]\nKeliling balok, yaitu: K = 4 x (p + l + t)\nVolume balok, yaitu: V = p x l x t"
+  },
+  {
+    "gambar": "tabung",
+    "rumus": "Luas alas = luas lingkaran = πr^2\nKeliling alas tabung = 2 x π x r atau π x d\nRumus Volume tabung = luas alas (lingkaran) x tinggi = (π x r2) x t"
+  },
+  {
+    "gambar": "kerucut",
+    "rumus": "Luas Kerucut, yaitu: L = π x r x (r + S)\nVolume Kerucut, yaitu: V = 1/3 x π x r^2 x t\nKeliling Kerucut, yaitu: K alas = 2 x π x r atau π x d"
+  },
+  {
+    "gambar": "bola",
+    "rumus": "Volume Bola, yaitu: V = 4/3 x π x r^3\nLuas Bola, yaitu: L = 4 × π × r²"
+  }
+]
